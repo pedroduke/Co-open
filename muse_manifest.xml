@@ -1,0 +1,173 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Co-Open.com" resolutions="1x" timestamp="1505743908100">
+  <folder name="assets">
+    <file name="search.png" crc="3923800835" seo="true" mt="1497876040000"/>
+    <file name="search1.png" crc="347343766" seo="true" mt="1497876356000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="205507390"/>
+    <file name="my-profile.css" crc="488982238" ref="my-profile"/>
+    <file name="contact---help.css" crc="4161227476" ref="contact---help"/>
+    <file name="terms---conditions.css" crc="230419518" ref="terms---conditions"/>
+    <file name="register.css" crc="107047373" ref="register"/>
+    <file name="index.css" crc="3802351995" ref="index"/>
+    <file name="policy-privacy.css" crc="182032163" ref="policy-privacy"/>
+    <file name="login.css" crc="3829472781" ref="login"/>
+    <file name="co-open.css" crc="3881641504" ref="co-open"/>
+    <file name="about-us.css" crc="4130954824" ref="about-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:about-us:contact---help:terms---conditions:policy-privacy:register:login:co-open:my-profile"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:tablet>index:index:about-us:contact---help:terms---conditions:policy-privacy:register:login:co-open:my-profile"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index:about-us:contact---help:terms---conditions:policy-privacy:register:login:co-open:my-profile"/>
+    <file name="museconfig.js" crc="168988563" ref="phone>index:tablet>index:index:about-us:contact---help:terms---conditions:policy-privacy:register:login:co-open:my-profile"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:tablet>index:index:about-us:contact---help:terms---conditions:policy-privacy:register:login:co-open:my-profile"/>
+    <file name="require.js" crc="244322403" ref="phone>index:tablet>index:index:about-us:contact---help:terms---conditions:policy-privacy:register:login:co-open:my-profile"/>
+    <file name="webpro.js" crc="3848665353" ref="index:co-open:my-profile"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:co-open:my-profile"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:co-open:my-profile"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:co-open:my-profile"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="my-profile"/>
+  </folder>
+  <folder name="images">
+    <file name="co-open-favicon.ico" crc="536739907" ref="index:co-open"/>
+    <file name="pasted-svg-224.svg" crc="242284976" seo="true" ref="index"/>
+    <file name="pasted svg 224_poster_.png" crc="83745155" ref="index"/>
+    <file name="karolina.png" crc="4122419409" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:co-open:my-profile"/>
+    <file name="nuno.png" crc="316620479" seo="true" ref="index"/>
+    <file name="pedro.png" crc="164029239" seo="true" ref="index"/>
+    <file name="mica.png" crc="4032721048" seo="true" ref="index"/>
+    <file name="trigger2.png" crc="89815426" ref="index"/>
+    <file name="trigger.png" crc="458889304" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pasted-svg-418.svg" crc="3923619842" seo="true" ref="index:about-us:contact---help:terms---conditions:policy-privacy:register:login:co-open:my-profile"/>
+    <file name="pasted svg 418_poster_.png" crc="102249097" ref="index:co-open"/>
+    <file name="pasted-svg-2349612x1285.svg" crc="4069595817" seo="true" ref="index"/>
+    <file name="pasted svg 2349612x1285_poster_.png" crc="4234327216" ref="index"/>
+    <file name="pasted-svg-300x219.svg" crc="1169730" seo="true" ref="index"/>
+    <file name="pasted svg 300x219_poster_.png" crc="4021818267" ref="index"/>
+    <file name="pasted-svg-258495x300.svg" crc="467996599" seo="true" ref="index"/>
+    <file name="pasted svg 258495x300_poster_.png" crc="358651022" ref="index"/>
+    <file name="pasted-svg-353x250.svg" crc="30042381" seo="true" ref="index"/>
+    <file name="pasted svg 353x250_poster_.png" crc="4007461618" ref="index"/>
+    <file name="pasted-svg-172042x157.svg" crc="4024145202" seo="true" ref="index"/>
+    <file name="pasted svg 172042x157_poster_.png" crc="4009812957" ref="index"/>
+    <file name="pasted-svg-299.svg" crc="233382312" seo="true" ref="index"/>
+    <file name="pasted svg 299_poster_.png" crc="48415374" ref="index"/>
+    <file name="pasted-svg-300x300.svg" crc="30815077" seo="true" ref="index"/>
+    <file name="pasted svg 300x300_poster_.png" crc="3874789879" ref="index"/>
+    <file name="pasted-svg-154.svg" crc="3913988319" seo="true" ref="index"/>
+    <file name="pasted svg 154_poster_.png" crc="4184276058" ref="index"/>
+    <file name="pasted-svg-938404x125.svg" crc="3782427057" seo="true" ref="index"/>
+    <file name="pasted svg 938404x125_poster_.png" crc="4213130906" ref="index"/>
+    <file name="pasted-svg-940063x123.svg" crc="425682532" seo="true" ref="index"/>
+    <file name="pasted svg 940063x123_poster_.png" crc="3959071791" ref="index"/>
+    <file name="pasted-svg-367624x367.svg" crc="3961693559" seo="true" ref="index"/>
+    <file name="pasted svg 367624x367_poster_.png" crc="110215064" ref="index"/>
+    <file name="pasted-svg-300x299.svg" crc="397029368" seo="true" ref="index"/>
+    <file name="pasted svg 300x299_poster_.png" crc="384366987" ref="index"/>
+    <file name="pasted-svg-300x3002.svg" crc="6313987" seo="true" ref="index"/>
+    <file name="pasted svg 300x300_poster_2.png" crc="300119674" ref="index"/>
+    <file name="pasted-svg-300x2992.svg" crc="533054381" seo="true" ref="index"/>
+    <file name="pasted svg 300x299_poster_2.png" crc="328492721" ref="index"/>
+    <file name="pasted-svg-356781x362.svg" crc="3990248086" seo="true" ref="index"/>
+    <file name="pasted svg 356781x362_poster_.png" crc="28480723" ref="index"/>
+    <file name="pasted-svg-4182.svg" crc="3923619842" seo="true" ref="index"/>
+    <file name="pasted svg 418_poster_2.png" crc="4033386214" ref="index"/>
+    <file name="pasted-svg-4183.svg" crc="3923619842" seo="true" ref="index:about-us:contact---help:terms---conditions:policy-privacy:register:login"/>
+    <file name="pasted svg 418_poster_3.png" crc="102249097" ref="index"/>
+    <file name="pasted-svg-80x80.svg" crc="3859999571" seo="true" ref="index:about-us:contact---help:terms---conditions:policy-privacy:register:login"/>
+    <file name="pasted svg 80x80_poster_.png" crc="258467681" ref="index"/>
+    <file name="pasted-svg-80x802.svg" crc="464554745" seo="true" ref="index:about-us:contact---help:terms---conditions:policy-privacy:register:login"/>
+    <file name="pasted svg 80x80_poster_2.png" crc="3904609442" ref="index"/>
+    <file name="pasted-svg-80x803.svg" crc="42211174" seo="true" ref="index:about-us:contact---help:terms---conditions:policy-privacy:register:login"/>
+    <file name="pasted svg 80x80_poster_3.png" crc="3911193167" ref="index"/>
+    <file name="pasted-svg-80x804.svg" crc="4186170163" seo="true" ref="index:about-us:contact---help:terms---conditions:policy-privacy:register:login"/>
+    <file name="pasted svg 80x80_poster_4.png" crc="123729981" ref="index"/>
+    <file name="pasted-svg-80x805.svg" crc="115449765" seo="true" ref="index:about-us:contact---help:terms---conditions:policy-privacy:register:login"/>
+    <file name="pasted svg 80x80_poster_5.png" crc="4097673680" ref="index"/>
+    <file name="pasted-svg-80x806.svg" crc="417828612" seo="true" ref="index:about-us:contact---help:terms---conditions:policy-privacy:register:login"/>
+    <file name="pasted svg 80x80_poster_6.png" crc="4231692886" ref="index"/>
+    <file name="pasted-svg-80x807.svg" crc="4260347375" seo="true" ref="index:about-us:contact---help:terms---conditions:policy-privacy:register:login"/>
+    <file name="pasted svg 80x80_poster_7.png" crc="4049267758" ref="index"/>
+    <file name="pasted-svg-80x808.svg" crc="16788303" seo="true" ref="index:about-us:contact---help:terms---conditions:policy-privacy:register:login"/>
+    <file name="pasted svg 80x80_poster_8.png" crc="27306587" ref="index"/>
+    <file name="pasted-svg-490x62.svg" crc="474843610" seo="true" ref="register:login"/>
+    <file name="pasted svg 490x62_poster_.png" crc="23940355" ref="register"/>
+    <file name="pasted-svg-490x622.svg" crc="383872237" seo="true" ref="register:login"/>
+    <file name="pasted svg 490x62_poster_2.png" crc="3764704818" ref="register"/>
+    <file name="kk.png" crc="304468819" seo="true" ref="co-open:my-profile"/>
+    <file name="002-picture.png" crc="206698022" seo="true" ref="co-open:my-profile"/>
+    <file name="003-album.png" crc="4010657104" seo="true" ref="co-open:my-profile"/>
+    <file name="001-file.png" crc="382250665" seo="true" ref="co-open:my-profile"/>
+    <file name="screen shot 2017-06-11 at 180325.png" crc="488017143" seo="true" ref="co-open"/>
+    <file name="screen shot 2017-06-11 at 182812.jpg" crc="4168636831" seo="true" ref="co-open"/>
+    <file name="screen shot 2017-06-11 at 183038.jpg" crc="3879902509" seo="true" ref="co-open"/>
+    <file name="pasted-svg-266x26.svg" crc="187514894" seo="true" ref="co-open:my-profile"/>
+    <file name="pasted svg 266x26_poster_.png" crc="119679690" ref="co-open"/>
+    <file name="pasted-svg-266x262.svg" crc="408037302" seo="true" ref="co-open:my-profile"/>
+    <file name="pasted svg 266x26_poster_2.png" crc="4087650533" ref="co-open"/>
+    <file name="pasted-svg-266x263.svg" crc="4114749627" seo="true" ref="co-open:my-profile"/>
+    <file name="pasted svg 266x26_poster_3.png" crc="4048274707" ref="co-open"/>
+    <file name="moura.png" crc="417681703" seo="true" ref="co-open"/>
+    <file name="18921077_1979025452123747_741914207024825467_o.jpg" crc="372818801" seo="true" ref="co-open"/>
+    <file name="pasted-svg-337x334.svg" crc="3831114013" seo="true" ref="co-open:my-profile"/>
+    <file name="pasted svg 337x334_poster_.png" crc="3801241038" ref="co-open"/>
+    <file name="pasted-svg-230942x199.svg" crc="308354002" seo="true" ref="co-open:my-profile"/>
+    <file name="pasted svg 230942x199_poster_.png" crc="258334643" ref="co-open"/>
+    <file name="10461902_281879652019712_2629159263263074944_o.png" crc="311010624" seo="true" ref="co-open:my-profile"/>
+    <file name="zxz.png" crc="390898744" seo="true" ref="co-open:my-profile"/>
+    <file name="ggggg.png" crc="239293961" seo="true" ref="co-open:my-profile"/>
+    <file name="cover.jpg" crc="350530747" ref="my-profile"/>
+    <file name="kk1.png" crc="454814203" seo="true" ref="my-profile"/>
+    <file name="screen shot 2017-07-05 at 151543.jpg" crc="109988717" seo="true" ref="my-profile"/>
+    <file name="saka.png" crc="319682534" seo="true" ref="my-profile"/>
+    <file name="screen shot 2017-07-05 at 151741.jpg" crc="318714172" seo="true" ref="my-profile"/>
+    <file name="screen shot 2017-07-05 at 172242.jpg" crc="4285809473" seo="true" ref="my-profile"/>
+    <file name="colour-u7720-fr.jpg" crc="3809384190" ref="my-profile"/>
+    <file name="screen shot 2017-02-11 at 025830-u7759-fr.jpg" crc="4255791879" ref="my-profile"/>
+    <file name="asd-u7768-fr.jpg" crc="3836481488" ref="my-profile"/>
+    <file name="colour.jpg" crc="3853711114" ref="my-profile"/>
+    <file name="screen shot 2017-02-11 at 025830.jpg" crc="283092817" ref="my-profile"/>
+    <file name="asd.jpg" crc="451420267" ref="my-profile"/>
+    <file name="w1000-409199gobyswzn-u8059-fr.jpg" crc="50128861" ref="my-profile"/>
+    <file name="w1000-409199lcovl4om-u8057-fr.jpg" crc="529665989" ref="my-profile"/>
+    <file name="w1000-409199vlkhlop4-u8058-fr.jpg" crc="189480346" ref="my-profile"/>
+    <file name="w1000-409199h2tu5q2m-u8131-fr.jpg" crc="4139163302" ref="my-profile"/>
+    <file name="w1000-409199qjshajz4-u8145-fr.jpg" crc="374228438" ref="my-profile"/>
+    <file name="w1000-40919936mvdroi-u8159-fr.jpg" crc="4035461832" ref="my-profile"/>
+    <file name="w1000-409199u5yevkei-u8173-fr.jpg" crc="4216390092" ref="my-profile"/>
+    <file name="w1000-409199seuqyjai-u8187-fr.jpg" crc="477293414" ref="my-profile"/>
+    <file name="w1000-409199gobyswzn.jpg" crc="65450573" ref="my-profile"/>
+    <file name="w1000-409199lcovl4om.jpg" crc="72183921" ref="my-profile"/>
+    <file name="w1000-409199vlkhlop4.jpg" crc="387900958" ref="my-profile"/>
+    <file name="w1000-409199h2tu5q2m.jpg" crc="349840333" ref="my-profile"/>
+    <file name="w1000-409199qjshajz4.jpg" crc="3919722129" ref="my-profile"/>
+    <file name="w1000-40919936mvdroi.jpg" crc="3787215250" ref="my-profile"/>
+    <file name="w1000-409199u5yevkei.jpg" crc="3919294620" ref="my-profile"/>
+    <file name="w1000-409199seuqyjai.jpg" crc="309071117" ref="my-profile"/>
+    <file name="screen shot 2017-08-31 at 144242-u8233-fr.jpg" crc="4251564770" ref="my-profile"/>
+    <file name="screen shot 2017-08-31 at 144242.jpg" crc="109650122" ref="my-profile"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4021538510" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="459300025" seo="true" mt="1489351954717" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3858082040" seo="true" mt="1489351954354" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="287318693" seo="true" mt="1501842222299" redirect="true"/>
+  <file name="about-us.html" crc="13278302" seo="true" mt="1501842222300" redirect="true"/>
+  <file name="contact---help.html" crc="209779109" seo="true" mt="1501842222301" redirect="true"/>
+  <file name="terms---conditions.html" crc="422616367" seo="true" mt="1501842222302" redirect="true"/>
+  <file name="policy-privacy.html" crc="4073354968" seo="true" mt="1501842222303" redirect="true"/>
+  <file name="register.html" crc="4213078971" seo="true" mt="1501842222304" redirect="true"/>
+  <file name="login.html" crc="4218873787" seo="true" mt="1501842222304" redirect="true"/>
+  <file name="co-open.html" crc="3976303626" seo="true" mt="1505743842664" redirect="true"/>
+  <file name="my-profile.html" crc="175357997" seo="true" mt="1505743867263" redirect="true"/>
+</manifest>
