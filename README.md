@@ -1,7 +1,7 @@
 # Co-open
 Final Project Bachelor
 
-Abstract
+<strong>Abstract</strong>
 
 This project was developed under the curricular unit of Project II of the 3rd year of the Bachelor Degree of Multimedia Information Technologies, attended at the School of Technologies of Castelo Branco.
 Mobile applications and online platforms are an essential product nowadays, but certain applications turn out to be somewhat limited, not covering all the needs of the various types of existing users, allowing this way the possibility of developing other types and new online platforms and mobile applications to meet the needs of a new target audience that is underdeveloped at the moment.
